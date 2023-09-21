@@ -55,7 +55,7 @@ public class AutomovelBasico extends Automovel {
 
     @Override
     public String toString() {
-        return super.toString() + "retrovisorPassageiro: " + retrovisorPassageiro + "\nlimpadorTraseiro: " + limpadorTraseiro
+        return super.toString() + "\nretrovisorPassageiro: " + retrovisorPassageiro + "\nlimpadorTraseiro: " + limpadorTraseiro
                 + "\nradioFM: " + radioFM;
     }
 
